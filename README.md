@@ -6,8 +6,11 @@ Herbert
 ## About
 
 🔎 Industry Focus: I am a Generalist
+
 📚 Education: Masters of Statistics & B.S. of Chemistry and Mathematics
+
 💻 Languages: Python, R, SQL, Javascript, HTML, CSS, Cypher Query
+
 🖱️ Technologies: Git, Docker, Excel, Databricks, Snowflake, PowerBI, Tableau, SalesForce
 <!--
 **9Olive/9Olive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

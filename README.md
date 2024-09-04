@@ -5,7 +5,7 @@ Herbert
 
 ## About
 
-🔎 Industry Focus: I am a Generalist
+🔎 Industry Focus: I am a generalist with professional experience implementing solutions in Finance, Life Sciences, Retail, Supply Chain and Logistics, and Marketing. 
 
 📚 Education: Masters of Statistics & B.S. of Chemistry and Mathematics
 

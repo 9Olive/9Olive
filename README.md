@@ -1,7 +1,7 @@
 ## Hi there | Hola 👋
 
 “This wise man observed that wealth is a tool of freedom. But the pursuit of wealth is the way to slavery.”
-Herbert
+- Herbert
 
 ## About
 

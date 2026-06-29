@@ -5,7 +5,7 @@
 
 ## About
 
-🔬 **Currently:** Engineer at NVIDIA working on [Kumo](https://kumo.ai) - a graph ML platform for relational deep learning on enterprise data.
+🔬 **Currently:** Working on a graph ML platform for relational deep learning on enterprise data.
 
 🧠 **Interests:** Graph neural networks · Relational deep learning · LLM tooling & fine-tuning · ML explainability
 
